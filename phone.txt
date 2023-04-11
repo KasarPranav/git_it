@@ -1,1 +1,5 @@
 phone
+
+Apple Phone
+Xiaomi phone
+Samsung phone
